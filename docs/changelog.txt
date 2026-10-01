@@ -1,3 +1,4 @@
+2.1.1 - refreshed glyph cache
 2.1.0 - rebuilt glyph cache
 2.0.4 - fix kerning table offsets
 2.0.0 - new atlas layout
